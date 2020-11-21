@@ -15,5 +15,5 @@
 
 ## 2. 시작하기
 
-* [Untitled](2./untitled.md)
+* [스프링 부트 소개](2./untitled.md)
 
